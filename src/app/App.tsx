@@ -285,13 +285,13 @@ function Hero() {
             }}
             style={{
               filter:
-                "drop-shadow(0 30px 60px rgba(97,72,223,0.28))",
+                "drop-shadow(0 16px 32px rgba(97,72,223,0.18))",
             }}
           >
             <img
               src={img1}
               alt="Screenshot do Hooky"
-              className="w-56 md:w-72 lg:w-80 rounded-[3rem] object-contain"
+              className="w-56 md:w-72 lg:w-80 object-contain"
               style={{ maxHeight: "640px" }}
             />
           </motion.div>
@@ -720,7 +720,7 @@ function Screenshots() {
             whileHover={{ rotate: -1, scale: 1.03 }}
             style={{
               filter:
-                "drop-shadow(0 28px 52px rgba(97,72,223,0.22))",
+                "drop-shadow(0 14px 28px rgba(97,72,223,0.15))",
             }}
           >
             <motion.div
@@ -734,7 +734,7 @@ function Screenshots() {
               <img
                 src={img1}
                 alt="Hooky — organize seus projetos"
-                className="w-52 md:w-64 rounded-[3rem] object-contain"
+                className="w-52 md:w-64 object-contain"
                 style={{ maxHeight: "520px" }}
               />
             </motion.div>
@@ -754,7 +754,7 @@ function Screenshots() {
             whileHover={{ rotate: 1, scale: 1.03 }}
             style={{
               filter:
-                "drop-shadow(0 28px 52px rgba(97,72,223,0.22))",
+                "drop-shadow(0 14px 28px rgba(97,72,223,0.15))",
             }}
           >
             <motion.div
@@ -769,7 +769,7 @@ function Screenshots() {
               <img
                 src={img2}
                 alt="Hooky — contadores e receitas"
-                className="w-52 md:w-64 rounded-[3rem] object-contain"
+                className="w-52 md:w-64 object-contain"
                 style={{ maxHeight: "520px" }}
               />
             </motion.div>
