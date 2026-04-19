@@ -14,7 +14,7 @@ import Frame88 from "../imports/Frame88/Frame88";
 // ============================================================
 // 🔗 LINK DA APP STORE — substitua pelo link real do seu app:
 const APP_STORE_URL =
-  "https://apps.apple.com/app/SEU_APP_ID_AQUI";
+  "https://apps.apple.com/us/app/hooky-organizador-de-crochê/id6760977071";
 // ============================================================
 
 function GridBg({ opacity = 1 }: { opacity?: number }) {
