@@ -925,7 +925,7 @@ function Footer() {
           style={{ fontFamily: "Nunito, sans-serif" }}
         >
           <span>
-            © 2025 Hooky. Todos os direitos reservados.
+            © 2026 Hooky. Todos os direitos reservados.
           </span>
           <span className="hidden sm:inline">·</span>
           <a
